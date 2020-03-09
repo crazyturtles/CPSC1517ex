@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FSISSystem.ENTITIES
+namespace FSISSystem.BLL
 {
-    class Class1
+    class PlayerController
     {
     }
 }

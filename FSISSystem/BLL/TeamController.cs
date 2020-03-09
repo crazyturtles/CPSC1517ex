@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FSISSystem.BLL
 {
-    class Class1
+    class TeamController
     {
     }
 }
